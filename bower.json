@@ -1,0 +1,24 @@
+{
+  "name": "tinymce-example",
+  "homepage": "https://github.com/itanex/tinymce-example",
+  "authors": [
+    "Bryan Wood <itanex@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-bootstrap": "0.14.3",
+    "bootstrap": "3.3.6",
+    "tinymce": "4.0.22"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tinymce-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itanex/tinymce-example.git"
+  },
+  "author": "Bryan Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itanex/tinymce-example/issues"
+  },
+  "homepage": "https://github.com/itanex/tinymce-example#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
